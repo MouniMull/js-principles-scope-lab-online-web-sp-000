@@ -1,4 +1,6 @@
 // Write your solution in this 
 var customerName = "bob"
 
-function upperCaseCustomerName()
+function upperCaseCustomerName(customerName){
+  
+}

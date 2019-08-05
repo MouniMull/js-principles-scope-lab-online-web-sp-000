@@ -1,3 +1,2 @@
-// Write your solution in this file!
-
- return var customerName
+// Write your solution in this 
+var customerName = "Bob"

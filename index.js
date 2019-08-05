@@ -1,2 +1,2 @@
 // Write your solution in this 
-var customerName = "Bob"
+var customerName = "bob"
